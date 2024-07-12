@@ -29,7 +29,10 @@
             <div class="calendar" id="calendar">
 
                 <div class="calendar__inner">
-                    <div class="calendar__top-week">
+                    <div class="item">
+                        
+                    </div>
+                    <!-- <div class="calendar__top-week">
                         <div class="calendar__top-week-item">
                             <span class="calendar__top-week-num">12</span>
                             <span class="calendar__top-week-text">Пт</span>
@@ -64,7 +67,7 @@
                             <span class="calendar__top-week-num">17</span>
                             <span class="calendar__top-week-text">Чт</span>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
 
                 </div>
